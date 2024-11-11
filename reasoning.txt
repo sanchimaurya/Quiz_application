@@ -1,0 +1,5 @@
+Question 1: What comes the next..1, 3, 5, 7..? Answer: 9
+Question 2: Which one is odd one out..(green, cat, white, yellow)? Answer: cat
+Question 3: value of x in [2:4 = 8:x]? Answer: 16
+Question 4: If i starting walking towards North, after five steps i took 90° turn clockwise and after 10 steps again took 90° turn clockwise? n which direction i am going? Answer: South
+Question 5: fill in the blank...[light:dark :: hot:__] Answer: Cold
